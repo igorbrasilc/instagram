@@ -508,11 +508,11 @@ color: #C7C7C7;
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        width: 100%;
+        width: 100vw;
     }
 
     .caixa-barra-bottom {
-    width: 100%;
+    width: 100vw;
     height: 54px;
     display: flex;
     background-color: #FFFFFF;
@@ -526,7 +526,7 @@ color: #C7C7C7;
     
 
     .elementos {
-        width: 100%;
+        width: 100vw;
         display: flex;
         flex-direction: row;
         justify-content: space-between;
@@ -544,11 +544,11 @@ color: #C7C7C7;
     .barra-topo {
         margin-bottom: 0;
         margin-right: 0;
-        width: 100%; 
+        width: 100vw; 
     }
 
     .publicacoes {
-        width: 100%;
+        width: 100vw;
     }
 
     .setinha {
@@ -559,11 +559,11 @@ color: #C7C7C7;
         margin-bottom: 0;
         margin-top: 0;
         background-color: #E5E5E5;
-        width: 100%;
+        width: 100vw;
     }
 
     .fotos {
-        width: 100%;
+        width: 100vw;
     }
 
     .sidebar {
