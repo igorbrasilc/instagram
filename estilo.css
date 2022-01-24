@@ -3,6 +3,8 @@ body {
     background-color: #E5E5E5;
 }
 
+/* Aqui vai as configurações da barra do topo: */
+
 .separador-vertical {
     width: 1px;
     height: 22px;
@@ -63,6 +65,8 @@ body {
 a {
     text-decoration: none;
 }
+
+/* Aqui vai as configurações das publicações: */
 
 .publicacoes {
     width: 614px;
